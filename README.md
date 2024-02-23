@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... python, c++, cloud
 - 🌱 I’m currently learning ... ai
 - 💞️ I’m looking to collaborate on ...open source
-- 📫 How to reach me ... by my email student@proton.me
+- 📫 How to reach me ... by my twitter @student2010
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
